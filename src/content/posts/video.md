@@ -6,7 +6,7 @@ tags: [示例, 视频, Firefly]
 category: 文章示例
 slug: video
 series: "Firefly 功能示例"
-seriesOrder: 12
+seriesOrder: 5
 ---
 
 只需从 YouTube 或其他平台复制嵌入代码，然后将其粘贴到 markdown 文件中。
