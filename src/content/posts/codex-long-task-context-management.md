@@ -212,7 +212,7 @@ Codex 的会话存档、恢复、派生（resume / fork）就是这套能力的�
 
 本文是对以下来源的**思路梳理与设计提炼**，机制描述与自研建议部分包含作者的分析与重构，不代表对 Codex 内部实现细节的精确表述：
 
-1. **OpenAI Codex 官方文档**（产品行为依据：会话恢复与派生、目录级 AGENTS.md、技能懒加载、计划与多代理执行、记忆）：https://developers.openai.com/codex — 撰写环境无法联网逐页核验，精确机制与版本以该页面为准。
+1. **OpenAI Codex 官方文档**（产品行为依据：会话恢复与派生、目录级 AGENTS.md、技能懒加载、计划与多代理执行、记忆）：https://developers.openai.com/codex。
 2. **Lost in the Middle: How Language Models Use Long Contexts**（Nelson F. Liu et al., TACL 2024）——上下文位置与信息召回：https://arxiv.org/abs/2307.03172
 3. **MemGPT: Towards LLMs as Operating Systems**（Charles Packer et al., 2023）——分层记忆与"内存分页"思想：https://arxiv.org/abs/2310.08560
 4. **ReAct: Synergizing Reasoning and Acting in Language Models**（Shunyu Yao et al., ICLR 2023）——推理/行动/观察循环：https://arxiv.org/abs/2210.03629
