@@ -156,4 +156,4 @@ npm run dev
 | coap/tcp/udp/sip/snmp/tr069 | ServerType/枚举已预留，SIP 已实现，其余未完整落地 |
 | 测试/CI/自动化 | 仓库内自动化测试非常少（详见测试篇） |
 
-下一部分进入[测试篇](../03-测试篇/1-测试现状评估.md)。
+下一部分进入[测试篇](/posts/fastbee-test-1/)。

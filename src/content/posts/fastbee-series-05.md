@@ -139,4 +139,4 @@ topic:   /41/D1ELV3A5TOJS/function/get
 payload: [{"id":"switch","value":"1"}]
 ```
 
-下一站：[设备影子与在线状态管理](06-设备影子与在线状态管理.md)
+下一站：[设备影子与在线状态管理](/posts/fastbee-series-06/)

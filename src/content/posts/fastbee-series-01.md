@@ -79,4 +79,4 @@ slug: fastbee-series-01
 - `springboot/sql/fastbee.sql` 中 `iot_product`、`iot_device`、`iot_things_model` 的建表语句与演示数据；
 - `springboot/fastbee-common/.../enums/TopicType.java` 的 Topic 规范。
 
-下一站：[物模型：平台的语义中枢](02-物模型-平台的语义中枢.md)
+下一站：[物模型：平台的语义中枢](/posts/fastbee-series-02/)

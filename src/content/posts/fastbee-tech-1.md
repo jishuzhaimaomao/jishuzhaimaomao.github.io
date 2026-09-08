@@ -148,4 +148,4 @@ fastbee-iot-service
 4. `mqtt-broker/.../handler/adapter/MqttMessageAdapter`（看协议入口）
 5. `iot-service/.../DeviceServiceImpl`（看核心业务）
 
-下一章：[后端框架与启动装配](2-后端框架与启动装配.md)
+下一章：[后端框架与启动装配](/posts/fastbee-tech-2/)

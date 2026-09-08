@@ -81,7 +81,7 @@ fastbee-http/.../client/TestInterceptorClient.java
 
 ## 6. 后续章节
 
-- [测试策略与测试分层](2-测试策略与测试分层.md)：为该项目设计可落地的质量策略
-- [核心功能测试用例设计](3-核心功能测试用例设计.md)：业务功能测试点
-- [MQTT 接入专项测试手册](4-MQTT接入测试手册.md)：协议与设备侧
-- [接口、性能与安全测试](5-接口性能与安全测试.md)：REST、性能、安全
+- [测试策略与测试分层](/posts/fastbee-test-2/)：为该项目设计可落地的质量策略
+- [核心功能测试用例设计](/posts/fastbee-test-3/)：业务功能测试点
+- [MQTT 接入专项测试手册](/posts/fastbee-test-4/)：协议与设备侧
+- [接口、性能与安全测试](/posts/fastbee-test-5/)：REST、性能、安全

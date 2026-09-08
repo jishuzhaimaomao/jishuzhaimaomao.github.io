@@ -123,4 +123,4 @@ code/address/count：Modbus 指令参数
 4. 在设备列表/详情观察子设备数据与模型匹配；
 5. 测试非法 slaveId、未定义从机地址时的行为。
 
-下一站：[从若依到 FastBee：二次开发心法](11-从若依到FastBee-二次开发入门.md)
+下一站：[从若依到 FastBee：二次开发心法](/posts/fastbee-series-11/)

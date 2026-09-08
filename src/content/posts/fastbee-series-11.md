@@ -119,4 +119,4 @@ ThingsModelController → ThingsModelServiceImpl → iot_things_model
 DataCenterController → DataCenterServiceImpl → ILogService 实现
 ```
 
-下一站：[把 FastBee 跑起来的部署实战](12-把FastBee跑起来的部署实战.md)
+下一站：[把 FastBee 跑起来的部署实战](/posts/fastbee-series-12/)

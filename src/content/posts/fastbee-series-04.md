@@ -134,4 +134,4 @@ remoteManager.pushCommon(messageBo);
 5. `DeviceServiceImpl.reportDeviceThingsModelValue`
 6. `MySqlLogServiceImpl.saveDeviceLog`
 
-下一条跟着“控制指令”走：[平台如何控制设备](05-平台如何控制设备.md)
+下一条跟着“控制指令”走：[平台如何控制设备](/posts/fastbee-series-05/)

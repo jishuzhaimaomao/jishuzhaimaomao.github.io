@@ -104,4 +104,4 @@ manager/SessionManger.java
 service/impl/MessageStoreImpl.java
 ```
 
-下一站：[一条上报数据的旅程](04-一条上报数据的旅程.md)
+下一站：[一条上报数据的旅程](/posts/fastbee-series-04/)

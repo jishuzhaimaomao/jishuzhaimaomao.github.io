@@ -99,4 +99,4 @@ if (null == dto) {
 3. 在前端“产品物模型”页面做一次可视化编辑；
 4. 在 `reportDeviceThingsModelValue` 打断点，看上报时如何与物模型交互。
 
-下一站：[自研 MQTT Broker](03-自研MQTT-Broker-从-能用-到-懂它.md)
+下一站：[自研 MQTT Broker](/posts/fastbee-series-03/)

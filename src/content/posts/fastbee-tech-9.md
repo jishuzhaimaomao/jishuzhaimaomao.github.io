@@ -120,4 +120,4 @@ sip:
 - 前端播放组件在 `vue/src/views/components/player` 与相关 SIP 页面；
 - 媒体服务器（`media_server`）与 `sip_config` 表是运行核心，先在 Web 页面配好再联调。
 
-下一章：[前端 Vue 架构与实时通信](10-前端Vue架构与实时通信.md)
+下一章：[前端 Vue 架构与实时通信](/posts/fastbee-tech-10/)

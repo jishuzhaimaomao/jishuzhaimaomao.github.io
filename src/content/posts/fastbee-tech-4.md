@@ -194,4 +194,4 @@ IMqttMessagePublish：平台下行发布接口
 5. `ClientManager.pubTopic`
 6. `MqttPublish.sendToMQ`
 
-下一章：[设备接入与消息上行链路](5-设备接入与消息上行链路.md)
+下一章：[设备接入与消息上行链路](/posts/fastbee-tech-5/)

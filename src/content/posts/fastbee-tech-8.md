@@ -144,4 +144,4 @@ if (action.getType() == 1) {
 3. 开启 `enable`；
 4. 联调时看 `script` 日志文件与 `MsgContext` 输出。
 
-下一章：[视频接入：GB28181 与 SIP](9-视频接入-GB28181与SIP.md)
+下一章：[视频接入：GB28181 与 SIP](/posts/fastbee-tech-9/)

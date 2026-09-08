@@ -151,4 +151,4 @@ IFirmwareCache 固件地址缓存
 
 但 `MqttMessagePublishImpl.upGradeOTA` 方法体为空，`buildMessage(OtaUpgradeBo)` 虽然存在但未被调用。因此**OTA 主流程在开源版未闭合**，验收前应明确范围。
 
-下一章：[物模型与数据存储设计](7-物模型与数据存储设计.md)
+下一章：[物模型与数据存储设计](/posts/fastbee-tech-7/)

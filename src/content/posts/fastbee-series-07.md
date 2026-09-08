@@ -125,4 +125,4 @@ for (int i = 0; i < deviceLogList.size(); i++) {
 3. 再次上报，观察 TDengine 超级表写入；
 4. 对比设备详情历史查询在两个存储下的 SQL 与耗时。
 
-下一站：[规则引擎让数据流动起来](08-规则引擎让数据流动起来.md)
+下一站：[规则引擎让数据流动起来](/posts/fastbee-series-08/)

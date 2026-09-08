@@ -134,4 +134,4 @@ npm run build:prod # 生产：dist/
 4. `store/modules/permission.js`
 5. `views/iot/device/index.vue` → `api/iot/device.js` → 后端 DeviceController
 
-下一章：[数据库设计](11-数据库设计.md)
+下一章：[数据库设计](/posts/fastbee-tech-11/)

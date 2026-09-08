@@ -143,4 +143,4 @@ device.setUserId(user.getUserId());
 | 设备数据没入库 | 先确认 TSDB 开关：同时启用两个 TSDB 会被 `ApplicationStarted` 拒绝并回退 |
 | 内部客户端循环重连 | Redis/`server.broker.port` 配置错误，看 `PubMqttClient.initialize` 日志 |
 
-下一章：[认证与权限体系](3-认证与权限体系.md)
+下一章：[认证与权限体系](/posts/fastbee-tech-3/)

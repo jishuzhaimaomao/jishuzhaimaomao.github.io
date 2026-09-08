@@ -180,4 +180,4 @@ payload: [{"id":"exception","value":"设备温度过高","remark":"alarm"}]
 - `/iot/tool/getTopics`：查看全部平台订阅/下发 Topic；
 - `/iot/tool/decode`：测试 CRC/报文（MODBUS 工具）。
 
-下一章：[指令下发与设备影子](6-指令下发与设备影子.md)
+下一章：[指令下发与设备影子](/posts/fastbee-tech-6/)

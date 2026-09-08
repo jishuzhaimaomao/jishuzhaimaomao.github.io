@@ -117,4 +117,4 @@ server/                           # SIP 层
 - 新增录像回放：`RecordInput/RecordList` 相关模型 + PlayerController；
 - 对接更多流媒体：把 `MediaServer` 抽象成接口，替换 ZLMediaKit 实现。
 
-下一站：[网关与子设备：采集那点事](10-网关与子设备那些事.md)
+下一站：[网关与子设备：采集那点事](/posts/fastbee-series-10/)

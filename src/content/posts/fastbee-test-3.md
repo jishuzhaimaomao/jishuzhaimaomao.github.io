@@ -104,4 +104,4 @@ slug: fastbee-test-3
 
 快速回归（30 分钟内）建议 = A-01/A-04 + P-02/P-03 + D-01/D-02/D-05 + R-01/R-02 + C-01/C-02 + S-02。
 
-下一章：[MQTT 接入专项测试手册](4-MQTT接入测试手册.md)
+下一章：[MQTT 接入专项测试手册](/posts/fastbee-test-4/)

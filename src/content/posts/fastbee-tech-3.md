@@ -119,4 +119,4 @@ ToolServiceImpl              springboot/fastbee-service/fastbee-iot-service/.../
 JWT Filter                   springboot/fastbee-framework/.../security/filter/JwtAuthenticationTokenFilter.java
 ```
 
-下一章：[自研 MQTT Broker 实现解析](4-MQTT-Broker实现解析.md)
+下一章：[自研 MQTT Broker 实现解析](/posts/fastbee-tech-4/)

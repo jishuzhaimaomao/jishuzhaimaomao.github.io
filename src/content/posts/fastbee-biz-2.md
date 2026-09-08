@@ -149,4 +149,4 @@ FastBee 的核心建模链路是：
 - `identifier`：说的是哪个数据点
 - `productId + protocolCode + transport`：用什么协议、如何编解码
 
-继续阅读：[3-用户-租户-权限与分享.md](3-用户-租户-权限与分享.md) 或 [5-典型业务流程与端到端场景.md](5-典型业务流程与端到端场景.md)
+继续阅读：[3-用户-租户-权限与分享](/posts/fastbee-biz-3/) 或 [5-典型业务流程与端到端场景](/posts/fastbee-biz-5/)
