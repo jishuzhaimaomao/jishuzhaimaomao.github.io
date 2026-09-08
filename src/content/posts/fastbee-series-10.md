@@ -1,9 +1,9 @@
 ---
-title: "10 网关与子设备：采集那点事"
+title: "[FastBee·系列] 10 网关与子设备：采集那点事"
 published: 2026-09-08
 description: "智能开关、温湿度计可能自带 WiFi；但工厂里的电表、PLC、串口传感器往往没有 IP，它们挂在网关上："
-tags: [FastBee,设备与产品,网关与子设备]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,设备与产品,网关与子设备]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-10
 ---
@@ -124,3 +124,4 @@ code/address/count：Modbus 指令参数
 5. 测试非法 slaveId、未定义从机地址时的行为。
 
 下一站：[从若依到 FastBee：二次开发心法](/posts/fastbee-series-11/)
+

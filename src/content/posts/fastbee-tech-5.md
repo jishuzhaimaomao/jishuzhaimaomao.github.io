@@ -1,9 +1,9 @@
 ---
-title: "设备接入与消息上行链路"
+title: "[FastBee·技术篇] 设备接入与消息上行链路"
 published: 2026-09-08
 description: "TopicType 枚举是 FastBee 协议层字典，核心规则："
-tags: [FastBee,设备与产品,系统架构]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,设备与产品,系统架构]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-5
 ---
@@ -181,3 +181,4 @@ payload: [{"id":"exception","value":"设备温度过高","remark":"alarm"}]
 - `/iot/tool/decode`：测试 CRC/报文（MODBUS 工具）。
 
 下一章：[指令下发与设备影子](/posts/fastbee-tech-6/)
+

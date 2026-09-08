@@ -1,9 +1,9 @@
 ---
-title: "典型业务流程与端到端场景"
+title: "[FastBee·业务篇] 典型业务流程与端到端场景"
 published: 2026-09-08
 description: "1. 管理员创建产品分类；"
-tags: [FastBee,学习路线,IoT 业务]
-category: FastBee
+tags: [FastBee,FastBee·业务篇,学习路线,IoT 业务]
+category: FastBee·业务篇
 draft: false
 slug: fastbee-biz-5
 ---
@@ -141,3 +141,4 @@ FastBee 把“采集”抽象成网关下的子设备/从机：
 5. 触发一次“功能下发”，观察设备收到的 topic/payload 与功能日志。
 
 这条练习做完，业务篇的核心就掌握了。接下来进入[技术篇](/posts/fastbee-tech-1/)。
+

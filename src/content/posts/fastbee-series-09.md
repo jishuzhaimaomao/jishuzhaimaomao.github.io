@@ -1,9 +1,9 @@
 ---
-title: "09 视频监控设备如何接入"
+title: "[FastBee·系列] 09 视频监控设备如何接入"
 published: 2026-09-08
 description: "传感器数据几 KB，走 MQTT 就够；摄像头是连续媒体流，需要："
-tags: [FastBee,设备与产品,视频接入]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,设备与产品,视频接入]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-09
 ---
@@ -118,3 +118,4 @@ server/                           # SIP 层
 - 对接更多流媒体：把 `MediaServer` 抽象成接口，替换 ZLMediaKit 实现。
 
 下一站：[网关与子设备：采集那点事](/posts/fastbee-series-10/)
+

@@ -1,9 +1,9 @@
 ---
-title: "数据库设计"
+title: "[FastBee·技术篇] 数据库设计"
 published: 2026-09-08
 description: "springboot/sql/fastbee.sql 是 MySQL 全量脚本（约 70 张表 + 演示数据）；另有："
-tags: [FastBee,时序数据]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,时序数据]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-11
 ---
@@ -143,3 +143,4 @@ MySQL 中多处使用 JSON 类型，如：
 5. **注意一致性**：JSON 冗余 + 分表实现会给“改产品名/删设备”带来级联更新风险，写测试时优先覆盖。
 
 下一章：[部署、运维与二次开发指引](/posts/fastbee-tech-12/)
+

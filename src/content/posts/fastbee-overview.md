@@ -1,9 +1,9 @@
 ---
-title: "FastBee 开源物联网平台学习文档"
+title: "[FastBee·总览] 开源物联网平台学习文档"
 published: 2026-09-08
 description: "FastBee 是一个面向中小企业与个人开发者的轻量、全栈、可二次开发的开源物联网（IoT）平台。平台基于若依（RuoYi-Vue）脚手架和 Spring Boot 构建，特点是内置自研 Netty MQTT Broker，不需要额外部署 EMQX 等独立 MQTT 服务端，同时提供产品/设备/物模型管理、数据监控、规…"
-tags: [FastBee,学习笔记]
-category: FastBee
+tags: [FastBee,FastBee·总览,学习笔记]
+category: FastBee·总览
 draft: false
 slug: fastbee-overview
 ---
@@ -81,7 +81,7 @@ FastBee/
 
 ### 4. 系列学习文章（把知识点串成“吃透”主线）
 
-[04-系列学习文章/00-导读与学习路线](/posts/fastbee-series-00/)
+[04-系列学习文章/00-导读与学习路线.md](/posts/fastbee-series-00/)
 
 文章 01~12 分别深入一个主题，并在文章末尾给出来源文件与延伸阅读。
 
@@ -100,3 +100,4 @@ FastBee/
 - 社区 QQ：720136372 / 946029159 / 1073236354
 
 > 免责声明：FastBee 开源版本仅供个人学习与合法使用，部署到公网前必须自行完成安全加固（改默认密码、启用 HTTPS、及时修复漏洞等）。
+

@@ -1,9 +1,9 @@
 ---
-title: "08 规则引擎让数据流动起来"
+title: "[FastBee·系列] 08 规则引擎让数据流动起来"
 published: 2026-09-08
 description: "前面讲的是“一条数据安全入库”。但物联网真正有价值的是数据驱动业务："
-tags: [FastBee,规则引擎]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,规则引擎]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-08
 ---
@@ -130,3 +130,4 @@ IF(OR(T1,T2), THEN(A1,A2))
 4. 再建一个语法错误脚本，验证单条脚本失败不影响后续消息。
 
 下一站：[视频监控设备如何接入](/posts/fastbee-series-09/)
+

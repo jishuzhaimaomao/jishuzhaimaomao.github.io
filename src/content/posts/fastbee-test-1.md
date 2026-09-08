@@ -1,9 +1,9 @@
 ---
-title: "测试现状评估"
+title: "[FastBee·测试篇] 测试现状评估"
 published: 2026-09-08
 description: "以当前 master 分支为准，逐项核验后结论如下："
-tags: [FastBee,软件测试]
-category: FastBee
+tags: [FastBee,FastBee·测试篇,软件测试]
+category: FastBee·测试篇
 draft: false
 slug: fastbee-test-1
 ---
@@ -85,3 +85,4 @@ fastbee-http/.../client/TestInterceptorClient.java
 - [核心功能测试用例设计](/posts/fastbee-test-3/)：业务功能测试点
 - [MQTT 接入专项测试手册](/posts/fastbee-test-4/)：协议与设备侧
 - [接口、性能与安全测试](/posts/fastbee-test-5/)：REST、性能、安全
+

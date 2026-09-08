@@ -1,9 +1,9 @@
 ---
-title: "03 自研 MQTT Broker：从“能用”到“懂它”"
+title: "[FastBee·系列] 03 自研 MQTT Broker：从“能用”到“懂它”"
 published: 2026-09-08
 description: "很多 IoT 平台用 EMQX/Mosquitto。FastBee 选择 Netty 手写 MQTT Broker，对产品的好处是“少装一个组件”，对学习者的好处是——你能看到 MQTT Broker 的全部实现。"
-tags: [FastBee,MQTT]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,MQTT]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-03
 ---
@@ -105,3 +105,4 @@ service/impl/MessageStoreImpl.java
 ```
 
 下一站：[一条上报数据的旅程](/posts/fastbee-series-04/)
+

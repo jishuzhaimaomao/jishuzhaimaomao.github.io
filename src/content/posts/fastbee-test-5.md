@@ -1,9 +1,9 @@
 ---
-title: "接口、性能与安全测试"
+title: "[FastBee·测试篇] 接口、性能与安全测试"
 published: 2026-09-08
 description: "仓库中 Controller 共 37 个，集中在 fastbee-open-api："
-tags: [FastBee,软件测试]
-category: FastBee
+tags: [FastBee,FastBee·测试篇,软件测试]
+category: FastBee·测试篇
 draft: false
 slug: fastbee-test-5
 ---
@@ -136,3 +136,4 @@ slug: fastbee-test-5
 6. 依赖漏洞扫描。
 
 这部分做完后，建议阅读[系列学习文章](/posts/fastbee-series-00/)巩固体系化认知。
+

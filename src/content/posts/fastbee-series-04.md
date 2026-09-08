@@ -1,9 +1,9 @@
 ---
-title: "04 一条上报数据的旅程"
+title: "[FastBee·系列] 04 一条上报数据的旅程"
 published: 2026-09-08
 description: "假设一台温湿度计每分钟发布一次数据。跟着 temperature=25.6 从网线出发，看看它在 FastBee 里走了多远。"
-tags: [FastBee,学习笔记]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,学习笔记]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-04
 ---
@@ -135,3 +135,4 @@ remoteManager.pushCommon(messageBo);
 6. `MySqlLogServiceImpl.saveDeviceLog`
 
 下一条跟着“控制指令”走：[平台如何控制设备](/posts/fastbee-series-05/)
+

@@ -1,9 +1,9 @@
 ---
-title: "功能地图：从界面菜单到代码模块"
+title: "[FastBee·业务篇] 功能地图：从界面菜单到代码模块"
 published: 2026-09-08
 description: "本文件把 Web 端看到的菜单和底层代码模块对应起来，方便“先点界面、再找源码”的学习路径。"
-tags: [FastBee,系统架构]
-category: FastBee
+tags: [FastBee,FastBee·业务篇,系统架构]
+category: FastBee·业务篇
 draft: false
 slug: fastbee-biz-4
 ---
@@ -106,3 +106,4 @@ slug: fastbee-biz-4
 ## 7. 小结
 
 功能地图告诉我们：FastBee 的“业务”不是神秘的新概念，而是**标准 IoT 建模 + 若依管理后台**的组合。掌握菜单后，下一步应转入[典型业务流程](/posts/fastbee-biz-5/)，把散落的菜单串成一条端到端主流程。
+

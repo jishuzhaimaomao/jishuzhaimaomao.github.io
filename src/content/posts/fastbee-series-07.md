@@ -1,9 +1,9 @@
 ---
-title: "07 时序数据：存得下、查得快"
+title: "[FastBee·系列] 07 时序数据：存得下、查得快"
 published: 2026-09-08
 description: "100 万个传感器、每分钟 1 条、保留一年："
-tags: [FastBee,时序数据]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,时序数据]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-07
 ---
@@ -126,3 +126,4 @@ for (int i = 0; i < deviceLogList.size(); i++) {
 4. 对比设备详情历史查询在两个存储下的 SQL 与耗时。
 
 下一站：[规则引擎让数据流动起来](/posts/fastbee-series-08/)
+

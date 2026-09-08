@@ -1,9 +1,9 @@
 ---
-title: "核心概念：产品、设备与物模型"
+title: "[FastBee·业务篇] 核心概念：产品、设备与物模型"
 published: 2026-09-08
 description: "FastBee 的核心建模链路是："
-tags: [FastBee,物模型,设备与产品]
-category: FastBee
+tags: [FastBee,FastBee·业务篇,物模型,设备与产品]
+category: FastBee·业务篇
 draft: false
 slug: fastbee-biz-2
 ---
@@ -149,4 +149,5 @@ FastBee 的核心建模链路是：
 - `identifier`：说的是哪个数据点
 - `productId + protocolCode + transport`：用什么协议、如何编解码
 
-继续阅读：[3-用户-租户-权限与分享](/posts/fastbee-biz-3/) 或 [5-典型业务流程与端到端场景](/posts/fastbee-biz-5/)
+继续阅读：[3-用户-租户-权限与分享.md](/posts/fastbee-biz-3/) 或 [5-典型业务流程与端到端场景.md](/posts/fastbee-biz-5/)
+

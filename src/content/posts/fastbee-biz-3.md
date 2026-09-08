@@ -1,9 +1,9 @@
 ---
-title: "用户、租户、权限与设备分享"
+title: "[FastBee·业务篇] 用户、租户、权限与设备分享"
 published: 2026-09-08
 description: "FastBee 的账号体系继承自若依（RuoYi-Vue），但为了设备所有权、多租户与分享做了二次演进。"
-tags: [FastBee,设备与产品,权限与认证]
-category: FastBee
+tags: [FastBee,FastBee·业务篇,设备与产品,权限与认证]
+category: FastBee·业务篇
 draft: false
 slug: fastbee-biz-3
 ---
@@ -87,3 +87,4 @@ FastBee 实际上有**三种完全不同的身份通道**，文档后续会反�
 3. **设备分享**：owner 与 guest 双轨 + 物模型级 sharePerm。
 
 相关测试要点见[测试篇：核心功能用例设计](/posts/fastbee-test-3/)。
+

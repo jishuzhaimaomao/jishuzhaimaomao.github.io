@@ -1,9 +1,9 @@
 ---
-title: "MQTT 接入专项测试手册"
+title: "[FastBee·测试篇] MQTT 接入专项测试手册"
 published: 2026-09-08
 description: "推荐："
-tags: [FastBee,MQTT,软件测试]
-category: FastBee
+tags: [FastBee,FastBee·测试篇,MQTT,软件测试]
+category: FastBee·测试篇
 draft: false
 slug: fastbee-test-4
 ---
@@ -160,3 +160,4 @@ Web 触发: 打开开关
 - 设备离线消息补推、订阅持久化在开源版实现不完整，测试时按实际代码行为记录，不按商业平台标准臆测。
 
 下一章：[接口、性能与安全测试](/posts/fastbee-test-5/)
+

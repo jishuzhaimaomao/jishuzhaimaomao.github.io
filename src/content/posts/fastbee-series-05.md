@@ -1,9 +1,9 @@
 ---
-title: "05 平台如何控制设备"
+title: "[FastBee·系列] 05 平台如何控制设备"
 published: 2026-09-08
 description: "设备上报是“单向广播”，就算丢一条损失也不大。控制指令是“反向单播”，要面对这些问题："
-tags: [FastBee,设备与产品]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,设备与产品]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-05
 ---
@@ -140,3 +140,4 @@ payload: [{"id":"switch","value":"1"}]
 ```
 
 下一站：[设备影子与在线状态管理](/posts/fastbee-series-06/)
+

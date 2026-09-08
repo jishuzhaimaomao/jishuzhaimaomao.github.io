@@ -1,9 +1,9 @@
 ---
-title: "测试策略与测试分层"
+title: "[FastBee·测试篇] 测试策略与测试分层"
 published: 2026-09-08
 description: "FastBee 属于“协议网关 + 业务平台 + 管理后台”复合系统，测试策略不能只做“增删改查”。建议围绕四条价值流设计："
-tags: [FastBee,软件测试]
-category: FastBee
+tags: [FastBee,FastBee·测试篇,软件测试]
+category: FastBee·测试篇
 draft: false
 slug: fastbee-test-2
 ---
@@ -118,3 +118,4 @@ FastBee 属于“协议网关 + 业务平台 + 管理后台”复合系统，测
 - 记录“真实硬件 + 网络环境”专项结果，避免只依赖本机模拟。
 
 下一章：[核心功能测试用例设计](/posts/fastbee-test-3/)
+

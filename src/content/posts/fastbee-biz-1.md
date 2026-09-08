@@ -1,9 +1,9 @@
 ---
-title: "项目全景：定位、版本与能力边界"
+title: "[FastBee·业务篇] 项目全景：定位、版本与能力边界"
 published: 2026-09-08
 description: "FastBee 把自己定位成“面向中小企业与个人开发者的轻量、易用、全栈物联网平台”。这句话拆开看就是它的产品策略："
-tags: [FastBee,系统架构,IoT 业务]
-category: FastBee
+tags: [FastBee,FastBee·业务篇,系统架构,IoT 业务]
+category: FastBee·业务篇
 draft: false
 slug: fastbee-biz-1
 ---
@@ -82,4 +82,5 @@ FastBee 把自己定位成“面向中小企业与个人开发者的轻量、易
 
 - 仓库根目录 `README.md`、`README.en.md`
 - `RoadMap.md`：官方规划的架构优化、功能拓展、SDK 与社区路线
-- [2-核心概念-产品-设备-物模型](/posts/fastbee-biz-2/)
+- [2-核心概念-产品-设备-物模型.md](/posts/fastbee-biz-2/)
+

@@ -1,9 +1,9 @@
 ---
-title: "06 设备影子与在线状态管理"
+title: "[FastBee·系列] 06 设备影子与在线状态管理"
 published: 2026-09-08
 description: "网络设备不可控。用户晚上 11 点对一台已下线的设备说“明早 6 点开灯”，平台怎么办？"
-tags: [FastBee,设备与产品]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,设备与产品]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-06
 ---
@@ -130,3 +130,4 @@ remoteManager.pushDeviceStatus(...);
 5. 拔网线 2 分钟，确认离线判定时间与 `keep-alive`/超时阈值的关系。
 
 下一站：[时序数据：存得下、查得快](/posts/fastbee-series-07/)
+

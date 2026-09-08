@@ -1,9 +1,9 @@
 ---
-title: "01 为什么需要物联网平台"
+title: "[FastBee·系列] 01 为什么需要物联网平台"
 published: 2026-09-08
 description: "假设你自己做了一台带 WiFi 的温湿度计，代码里连上 MQTT，服务器收到 temperature=25.6。这算不算“物联网平台”？"
-tags: [FastBee,学习笔记]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,学习笔记]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-01
 ---
@@ -80,3 +80,4 @@ slug: fastbee-series-01
 - `springboot/fastbee-common/.../enums/TopicType.java` 的 Topic 规范。
 
 下一站：[物模型：平台的语义中枢](/posts/fastbee-series-02/)
+

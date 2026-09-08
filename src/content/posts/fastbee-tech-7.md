@@ -1,9 +1,9 @@
 ---
-title: "物模型与数据存储设计"
+title: "[FastBee·技术篇] 物模型与数据存储设计"
 published: 2026-09-08
 description: "FastBee 在数据库里保存两份物模型："
-tags: [FastBee,物模型,时序数据]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,物模型,时序数据]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-7
 ---
@@ -174,3 +174,4 @@ if (enabledCount > 1) { log.error("只能启用一个时序数据库"); return; 
 代价是状态一致需要业务保证：删除设备时清理 Redis 与日志；改物模型时可能需要同步各设备缓存。这是测试与二次开发需要重点回归的部分。
 
 下一章：[规则引擎与定时任务](/posts/fastbee-tech-8/)
+

@@ -1,9 +1,9 @@
 ---
-title: "部署、运维与二次开发指引"
+title: "[FastBee·技术篇] 部署、运维与二次开发指引"
 published: 2026-09-08
 description: "README 推荐的正式路径："
-tags: [FastBee,部署运维]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,部署运维]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-12
 ---
@@ -157,3 +157,4 @@ npm run dev
 | 测试/CI/自动化 | 仓库内自动化测试非常少（详见测试篇） |
 
 下一部分进入[测试篇](/posts/fastbee-test-1/)。
+

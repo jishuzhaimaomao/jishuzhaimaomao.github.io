@@ -1,9 +1,9 @@
 ---
-title: "12 把 FastBee 跑起来的部署实战"
+title: "[FastBee·系列] 12 把 FastBee 跑起来的部署实战"
 published: 2026-09-08
 description: "FastBee 的 Docker 部署本质是五个角色："
-tags: [FastBee,部署运维]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,部署运维]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-12
 ---
@@ -156,3 +156,4 @@ mysql -e "select count(*) from iot_device_log;"
 5. 能动手补一个 TODO 闭环。
 
 建议完成部署后，回到[业务篇](/posts/fastbee-biz-1/)或[技术篇](/posts/fastbee-tech-1/)按章节精读，再用[测试篇](/posts/fastbee-test-3/)的用例给自己出卷。祝你学习顺利！
+

@@ -1,9 +1,9 @@
 ---
-title: "总体架构与模块清单"
+title: "[FastBee·技术篇] 总体架构与模块清单"
 published: 2026-09-08
 description: "FastBee 是一个单体分层 + 模块化 Maven 工程 + 内置协议服务的架构："
-tags: [FastBee,系统架构]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,系统架构]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-1
 ---
@@ -149,3 +149,4 @@ fastbee-iot-service
 5. `iot-service/.../DeviceServiceImpl`（看核心业务）
 
 下一章：[后端框架与启动装配](/posts/fastbee-tech-2/)
+

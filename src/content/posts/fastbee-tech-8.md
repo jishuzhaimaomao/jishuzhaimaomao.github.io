@@ -1,9 +1,9 @@
 ---
-title: "规则引擎与定时任务"
+title: "[FastBee·技术篇] 规则引擎与定时任务"
 published: 2026-09-08
 description: "FastBee 的“规则引擎”分两个层次："
-tags: [FastBee,规则引擎]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,规则引擎]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-8
 ---
@@ -145,3 +145,4 @@ if (action.getType() == 1) {
 4. 联调时看 `script` 日志文件与 `MsgContext` 输出。
 
 下一章：[视频接入：GB28181 与 SIP](/posts/fastbee-tech-9/)
+

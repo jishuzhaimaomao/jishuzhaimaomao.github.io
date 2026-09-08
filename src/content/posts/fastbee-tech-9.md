@@ -1,9 +1,9 @@
 ---
-title: "视频接入：GB28181 与 SIP"
+title: "[FastBee·技术篇] 视频接入：GB28181 与 SIP"
 published: 2026-09-08
 description: "FastBee 采用标准视频接入范式："
-tags: [FastBee,视频接入]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,视频接入]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-9
 ---
@@ -121,3 +121,4 @@ sip:
 - 媒体服务器（`media_server`）与 `sip_config` 表是运行核心，先在 Web 页面配好再联调。
 
 下一章：[前端 Vue 架构与实时通信](/posts/fastbee-tech-10/)
+

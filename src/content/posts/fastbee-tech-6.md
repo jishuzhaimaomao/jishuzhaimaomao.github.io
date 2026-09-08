@@ -1,9 +1,9 @@
 ---
-title: "指令下发与设备影子"
+title: "[FastBee·技术篇] 指令下发与设备影子"
 published: 2026-09-08
 description: "Web / App"
-tags: [FastBee,设备与产品,系统架构]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,设备与产品,系统架构]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-6
 ---
@@ -152,3 +152,4 @@ IFirmwareCache 固件地址缓存
 但 `MqttMessagePublishImpl.upGradeOTA` 方法体为空，`buildMessage(OtaUpgradeBo)` 虽然存在但未被调用。因此**OTA 主流程在开源版未闭合**，验收前应明确范围。
 
 下一章：[物模型与数据存储设计](/posts/fastbee-tech-7/)
+

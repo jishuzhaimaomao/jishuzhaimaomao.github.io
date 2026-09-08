@@ -1,9 +1,9 @@
 ---
-title: "后端框架与启动装配"
+title: "[FastBee·技术篇] 后端框架与启动装配"
 published: 2026-09-08
 description: "启动类："
-tags: [FastBee,学习笔记]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,学习笔记]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-2
 ---
@@ -144,3 +144,4 @@ device.setUserId(user.getUserId());
 | 内部客户端循环重连 | Redis/`server.broker.port` 配置错误，看 `PubMqttClient.initialize` 日志 |
 
 下一章：[认证与权限体系](/posts/fastbee-tech-3/)
+

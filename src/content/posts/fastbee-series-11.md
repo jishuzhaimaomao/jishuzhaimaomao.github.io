@@ -1,9 +1,9 @@
 ---
-title: "11 从若依到 FastBee：二次开发心法"
+title: "[FastBee·系列] 11 从若依到 FastBee：二次开发心法"
 published: 2026-09-08
 description: "FastBee 的长相和若依（RuoYi-Vue）几乎一样：Vue2 + Element-UI 后台、Spring Boot + Security + JWT、动态菜单、代码生成器。"
-tags: [FastBee,若依]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,若依]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-11
 ---
@@ -120,3 +120,4 @@ DataCenterController → DataCenterServiceImpl → ILogService 实现
 ```
 
 下一站：[把 FastBee 跑起来的部署实战](/posts/fastbee-series-12/)
+

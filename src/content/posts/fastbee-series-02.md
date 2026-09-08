@@ -1,9 +1,9 @@
 ---
-title: "02 物模型：平台的语义中枢"
+title: "[FastBee·系列] 02 物模型：平台的语义中枢"
 published: 2026-09-08
 description: "设备上报一串字节，平台怎么知道它是什么？物联网行业给出的答案不是让每台设备写死解析代码，而是引入物模型（Thing Model）。"
-tags: [FastBee,物模型]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,物模型]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-02
 ---
@@ -100,3 +100,4 @@ if (null == dto) {
 4. 在 `reportDeviceThingsModelValue` 打断点，看上报时如何与物模型交互。
 
 下一站：[自研 MQTT Broker](/posts/fastbee-series-03/)
+

@@ -1,9 +1,9 @@
 ---
-title: "自研 MQTT Broker 实现解析"
+title: "[FastBee·技术篇] 自研 MQTT Broker 实现解析"
 published: 2026-09-08
 description: "FastBee 的卖点之一是“内置 MQTT Broker，无需 EMQX”。本章从代码结构拆开它，重点讲清“能做什么、怎么做的、单机边界在哪”。"
-tags: [FastBee,MQTT]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,MQTT]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-4
 ---
@@ -195,3 +195,4 @@ IMqttMessagePublish：平台下行发布接口
 6. `MqttPublish.sendToMQ`
 
 下一章：[设备接入与消息上行链路](/posts/fastbee-tech-5/)
+

@@ -1,9 +1,9 @@
 ---
-title: "前端 Vue 架构与实时通信"
+title: "[FastBee·技术篇] 前端 Vue 架构与实时通信"
 published: 2026-09-08
 description: "前端是基于 RuoYi-Vue 演进的管理后台，版本与依赖："
-tags: [FastBee,前端开发,系统架构]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,前端开发,系统架构]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-10
 ---
@@ -135,3 +135,4 @@ npm run build:prod # 生产：dist/
 5. `views/iot/device/index.vue` → `api/iot/device.js` → 后端 DeviceController
 
 下一章：[数据库设计](/posts/fastbee-tech-11/)
+

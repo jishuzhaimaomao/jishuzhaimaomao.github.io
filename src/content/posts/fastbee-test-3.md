@@ -1,9 +1,9 @@
 ---
-title: "核心功能测试用例设计"
+title: "[FastBee·测试篇] 核心功能测试用例设计"
 published: 2026-09-08
 description: "复用若依成熟能力，至少回归：用户/角色授权、菜单动态加载、字典、参数、操作日志、登录日志、在线用户强退、通知公告（XSS 净化）、定时任务白名单。"
-tags: [FastBee,软件测试]
-category: FastBee
+tags: [FastBee,FastBee·测试篇,软件测试]
+category: FastBee·测试篇
 draft: false
 slug: fastbee-test-3
 ---
@@ -105,3 +105,4 @@ slug: fastbee-test-3
 快速回归（30 分钟内）建议 = A-01/A-04 + P-02/P-03 + D-01/D-02/D-05 + R-01/R-02 + C-01/C-02 + S-02。
 
 下一章：[MQTT 接入专项测试手册](/posts/fastbee-test-4/)
+

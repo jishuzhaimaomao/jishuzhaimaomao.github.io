@@ -1,9 +1,9 @@
 ---
-title: "系列学习文章：导读与学习路线"
+title: "[FastBee·系列] 系列学习文章：导读与学习路线"
 published: 2026-09-08
 description: "前面的业务篇、技术篇、测试篇是按“文档分类”组织的，适合查阅；这个系列则是按“认知主线”组织，适合一口气读完，把 FastBee 真正“吃透”。"
-tags: [FastBee,学习路线]
-category: FastBee
+tags: [FastBee,FastBee·系列文章,学习路线]
+category: FastBee·系列文章
 draft: false
 slug: fastbee-series-00
 ---
@@ -83,3 +83,4 @@ springboot/fastbee-service/fastbee-iot-service/src/main/java/com/fastbee/iot/ser
 springboot/fastbee-common/src/main/java/com/fastbee/common/enums/TopicType.java
 springboot/sql/fastbee.sql
 ```
+

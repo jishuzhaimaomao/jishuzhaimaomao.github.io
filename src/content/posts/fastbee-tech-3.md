@@ -1,9 +1,9 @@
 ---
-title: "认证与权限体系（Web + MQTT）"
+title: "[FastBee·技术篇] 认证与权限体系（Web + MQTT）"
 published: 2026-09-08
 description: "GET  /captchaImage         → 返回 uuid + 图形/数学验证码"
-tags: [FastBee,MQTT,权限与认证]
-category: FastBee
+tags: [FastBee,FastBee·技术篇,MQTT,权限与认证]
+category: FastBee·技术篇
 draft: false
 slug: fastbee-tech-3
 ---
@@ -120,3 +120,4 @@ JWT Filter                   springboot/fastbee-framework/.../security/filter/Jw
 ```
 
 下一章：[自研 MQTT Broker 实现解析](/posts/fastbee-tech-4/)
+
